@@ -87,6 +87,17 @@
       ],
       "correctIndex": 0,
       "id": 8
+    },
+    {
+      "prompt": "May the Spirit",
+      "answers": [
+        "of the LOrd",
+        "Come down",
+        "May the Spirit",
+        "Of the LOrd"
+      ],
+      "correctIndex": 0,
+      "id": 10
     }
   ]
 }
